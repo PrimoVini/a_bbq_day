@@ -8,7 +8,7 @@ And oh boy, was it messy... (˶˃𐃷˂˶)
 Learning about the loops was easy, getting the hang of it...not so much. But after starting to code the game and understanding how they work, I enter code flow state (ง •̀_•́)ง, and  before I knew it,  I was already halfway through...or at least that's what I thought. 
 
 The thing is, I was doing this wrong. (ik, how can that be possible? One of the things I love about programming is the fact that you have a ***million*** ways to obtain the result you want! ) 
-<br> I was doing it the *LONG* way, creating a bunch of **if** statements 
+I was doing it the *LONG* way, creating a bunch of **if** statements 
 ```
 if choice == i 
 ````
@@ -19,4 +19,9 @@ Lemme tell you, it was a **game changer**, I optimized my code and although yeah
 Finally, I think I have a version that I'm satisfied with and I hope you like it too!
 
 ## About the game
-Okey, I rambled enough (thank you if you read all that! (╥ ᴗ ╥))
+Okey, I rambled enough (thank you if you read all that! (╥ ᴗ ╥)) 
+
+The game is simple, you wake up in cabin, not really sure of where you are, before you there are 3 items: a radio, a pair of binoculars and a lunchbox...
+what will you choose and how will you get to you friends? That's up to you, just make sure you do it before night our you might end up lost in the forest...
+
+The game plays  like a simple decision-based rpg, in the tecnical aspects the most challening part was making the "scenes" callable **from** other scene, and for that I found that using **if statements** was the best option. 
